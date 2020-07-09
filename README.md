@@ -7,13 +7,9 @@
 - [Kitsu Season Trends], daily statistical trends of seasonal anime on [Kitsu.io]
 - and many more open source projects!
 
-🌱 I’m currently learning Crystal and Elixir
-
-👯 I’m looking to collaborate on open source Vue projects
+📷 I'm a hobbyist photographer over at [wopian.moe]
 
 ❤️ I'm looking for [sponsors] to keep my projects maintained and operational
-
-📷 I'm a hobbyist photographer over at [wopian.moe]
 
 💬 Ask me about anything
 
