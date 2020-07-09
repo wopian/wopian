@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**wopian/wopian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+  - [Kitsu.io], a content discovery and tracking platform for anime and manga fans
+  - [kitsu], a framework agnostic [JSON:API] client implementation
+  - [Kitsu Season Trends], daily statistical trends of seasonal anime on [Kitsu.io]
+  - and many more open source projects!
+- 🌱 I’m currently learning Crystal and Elixir
+- 👯 I’m looking to collaborate on open source Vue projects
+- ❤️ I'm looking for [sponsors] to keep my projects maintained and operational
+- 💬 Ask me about anything
+- 📫 Reach me at: [@wopian_]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Kitsu.io]:https://github.com/hummingbird.me
+[kitsu]:https://github.com/wopian/kitsu
+[JSON:API]:https://jsonapi.org
+[Kitsu Season Trends]:https://github.com/wopian/kitsu-season-trends
+[@wopian_]:https://twitter.com/wopian_
+[sponsors]:https://github.com/sponsors/wopian
