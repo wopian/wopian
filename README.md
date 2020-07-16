@@ -18,7 +18,7 @@
 
 [Kitsu.io]:https://github.com/hummingbird.me
 [kitsu]:https://github.com/wopian/kitsu
-[preferred-locale]:https://github.com/wopian/preferred-locale/tree/master/packages/preferred-locale
+[preferred-locale]:https://github.com/wopian/preferred-locale
 [JSON:API]:https://jsonapi.org
 [Kitsu Season Trends]:https://github.com/wopian/kitsu-season-trends
 [@wopian_]:https://twitter.com/wopian_
