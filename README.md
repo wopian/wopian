@@ -16,7 +16,7 @@
 
 📫 Reach me at: [@wopian_]
 
-[Kitsu.io]:https://github.com/hummingbird.me
+[Kitsu.io]:https://github.com/hummingbird-me
 [kitsu]:https://github.com/wopian/kitsu
 [preferred-locale]:https://github.com/wopian/preferred-locale
 [JSON:API]:https://jsonapi.org
