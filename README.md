@@ -12,9 +12,7 @@
 
 ❤️ I'm looking for [sponsors] to keep my projects maintained and operational
 
-💬 Ask me about anything
-
-📫 Reach me at: [@wopian_]
+📫 Twitter: [@wopian_]
 
 [Kitsu.io]:https://github.com/hummingbird-me
 [kitsu]:https://github.com/wopian/kitsu
