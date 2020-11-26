@@ -14,6 +14,9 @@
 
 📫 Twitter: [@wopian_]
 
+![](https://github.com/wopian/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/wopian/github-stats/blob/master/generated/languages.svg)
+
 [Kitsu.io]:https://github.com/hummingbird-me
 [kitsu]:https://github.com/wopian/kitsu
 [preferred-locale]:https://github.com/wopian/preferred-locale
