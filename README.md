@@ -14,7 +14,11 @@
 
 ❤️ I'm looking for [sponsors] to keep my projects maintained and operational
 
-📫 Twitter: [@wopian_]
+☕ Ko-Fi: [@wopian](https://ko-fi.com/wopian)
+
+📷 Instagram: [@wopian_](https://instagram.com/wopian_)
+
+📫 Twitter: [@wopian_](https://twitter.com/wopian_)
 
 ![](https://github.com/wopian/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/wopian/github-stats/blob/master/generated/languages.svg)
@@ -26,6 +30,5 @@
 [smooth-corners]:https://github.com/wopian/smooth-corners
 [JSON:API]:https://jsonapi.org
 [Kitsu Season Trends]:https://github.com/wopian/kitsu-season-trends
-[@wopian_]:https://twitter.com/wopian_
 [sponsors]:https://github.com/sponsors/wopian
 [wopian.moe]:https://www.wopian.moe
