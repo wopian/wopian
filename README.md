@@ -2,13 +2,19 @@
 
 🔭 I’m currently working on:
 
-- [Apollo 11], digitising and proof reading the Assembly source code used to reach the moon in 1969
-- [Kitsu.io], a content discovery and tracking platform for anime and manga fans (`Ember`, `JavaScript`)
-- [kitsu], a framework agnostic [JSON:API] client implementation (`JavaScript`)
-- [smooth-corners], a 400b CSS paint module providing superellipse masks in CSS (`JavaScript`)
-- [preferred-locale], get your users' most preferred locale from your app's translations (`JavaScript`)
-- [Kitsu Season Trends], daily statistical trends of seasonal anime on [Kitsu.io] (`React`, `JavaScript`)
+- [zeepkist-bot], a Discord bot for the Official Zeepkist discord ![typescript]
+- [zeepkist-records], a prototype dashboard using the Zeepkist GTR API ![typescript] ![vue]
+- [preferred-locale], get your users' most preferred locale from your app's translations ![typescript]
+- [smooth-corners], a 400b CSS paint module providing superellipse masks in CSS ![javascript]
+- [kitsu], a framework agnostic [JSON:API] client implementation ![javascript]
+- [kitsu-season-trends], daily statistical trends of seasonal anime on [Kitsu.io] ![javascript] ![react]
+- [apollo-11], digitising and proof reading the Assembly source code used to reach the moon in 1969
 - and many more open source projects!
+
+🏆 I've worked on:
+
+- [Kitsu.io], a content discovery and tracking platform for anime and manga fans ![javascript] ![ember]
+- [Trutify] ![typescript] ![javascript] ![angular] ![react] ![vue]
 
 📷 I'm a hobbyist photographer over at [wopian.moe]
 
@@ -23,12 +29,22 @@
 ![](https://github.com/wopian/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/wopian/github-stats/blob/master/generated/languages.svg)
 
-[Apollo 11]:https://github.com/chrislgarry/Apollo-11
+[apollo-11]:https://github.com/chrislgarry/Apollo-11
 [Kitsu.io]:https://github.com/hummingbird-me
 [kitsu]:https://github.com/wopian/kitsu
 [preferred-locale]:https://github.com/wopian/preferred-locale
 [smooth-corners]:https://github.com/wopian/smooth-corners
 [JSON:API]:https://jsonapi.org
-[Kitsu Season Trends]:https://github.com/wopian/kitsu-season-trends
+[kitsu-season-trends]:https://github.com/wopian/kitsu-season-trends
 [sponsors]:https://github.com/sponsors/wopian
 [wopian.moe]:https://www.wopian.moe
+[zeepkist-bot]:https://github.com/wopian/zeepkist-bot
+[zeepkist-records]:https://github.com/wopian/zeepkist-records
+[trutify]:https://github.com/trutify
+ 
+[typescript]:https://img.shields.io/badge/TypeScript-161b22?style=flat&logo=typescript&logoColor=3178c6
+[javascript]:https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript&logoColor=f1e05a
+[react]:https://img.shields.io/badge/React-161b22?style=flat&logo=react
+[vue]:https://img.shields.io/badge/Vue-161b22?style=flat&logo=vue.js&logoColor=41b883
+[angular]:https://img.shields.io/badge/Angular-161b22?style=flat&logo=angular&logoColor=41b883
+[ember]:https://img.shields.io/badge/Ember-161b22?style=flat&logo=ember.js
