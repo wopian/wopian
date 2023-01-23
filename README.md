@@ -8,13 +8,13 @@
 - [smooth-corners], a 400b CSS paint module providing superellipse masks in CSS ![javascript]
 - [kitsu], a framework agnostic [JSON:API] client implementation ![javascript]
 - [kitsu-season-trends], daily statistical trends of seasonal anime on [Kitsu.io] ![javascript] ![react]
+- [trutify] ![typescript] ![javascript] ![angular] ![react] ![vue]
 - [apollo-11], digitising and proof reading the Assembly source code used to reach the moon in 1969
 - and many more open source projects!
 
 🏆 I've worked on:
 
 - [Kitsu.io], a content discovery and tracking platform for anime and manga fans ![javascript] ![ember]
-- [Trutify] ![typescript] ![javascript] ![angular] ![react] ![vue]
 
 📷 I'm a hobbyist photographer over at [wopian.moe]
 
