@@ -16,10 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: wopian
-          base: community, repositories, metadata, repository, repositories
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+          base: repository, repositories
           plugin_traffic: yes
           plugin_languages: yes
           plugin_languages_ignored: >-
@@ -27,7 +24,7 @@ jobs:
             gnuplot
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
           plugin_languages_other: yes
