@@ -3,7 +3,7 @@
 🔭 I’m currently working on:
 
 - [zeepkist-bot], a Discord bot for the Official Zeepkist discord ![typescript]
-- [zeepkist-records], a prototype dashboard using the Zeepkist GTR API ![typescript] ![vue]
+- [zeepkist], records, level info and league standings for Zeepkist ![typescript] ![vue]
 - [preferred-locale], get your users' most preferred locale from your app's translations ![typescript]
 - [smooth-corners], a 400b CSS paint module providing superellipse masks in CSS ![javascript]
 - [kitsu], a framework agnostic [JSON:API] client implementation ![javascript]
@@ -29,6 +29,8 @@
 ![](https://github.com/wopian/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/wopian/github-stats/blob/master/generated/languages.svg)
 
+![](https://github.com/wopian/wopian/blob/master/github-metrics.svg)
+
 [apollo-11]:https://github.com/chrislgarry/Apollo-11
 [Kitsu.io]:https://github.com/hummingbird-me
 [kitsu]:https://github.com/wopian/kitsu
@@ -39,7 +41,7 @@
 [sponsors]:https://github.com/sponsors/wopian
 [wopian.moe]:https://www.wopian.moe
 [zeepkist-bot]:https://github.com/wopian/zeepkist-bot
-[zeepkist-records]:https://github.com/wopian/zeepkist-records
+[zeepkist]:https://github.com/wopian/zeepkist-records
 [trutify]:https://github.com/trutify
  
 [typescript]:https://img.shields.io/badge/TypeScript-161b22?style=flat&logo=typescript&logoColor=3178c6
