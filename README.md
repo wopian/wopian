@@ -8,7 +8,7 @@
 - [smooth-corners], a 400b CSS paint module providing superellipse masks in CSS ![javascript]
 - [kitsu], a framework agnostic [JSON:API] client implementation ![javascript]
 - [kitsu-season-trends], daily statistical trends of seasonal anime on [Kitsu.io] ![javascript] ![react]
-- [trutify] ![typescript] ![javascript] ![angular] ![react] ![vue]
+- [trutify] ![typescript] ![javascript] ![react]
 - [apollo-11], digitising and proof reading the Assembly source code used to reach the moon in 1969
 - and many more open source projects!
 
