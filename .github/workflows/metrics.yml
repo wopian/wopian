@@ -23,8 +23,8 @@ jobs:
           plugin_languages_categories: programming #, markup
           plugin_languages_recent_days: 14
           plugin_languages_colors: github
-          plugin_languages_ignored: >-
-            php, lua, shell, assembly, hcl, python
+          plugin_languages_ignored: ${{ vars.EXCLUDED_LANGS }}
+          plugin_languages_skipped: ${{ vars.EXCLUDED_REPOS }}
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size, percentage
