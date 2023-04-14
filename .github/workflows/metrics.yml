@@ -20,14 +20,15 @@ jobs:
           config_timezone: Europe/London
           plugin_traffic: yes
           plugin_languages: yes
-          plugin_languages_categories: data, markup, programming, prose
-          plugin_languages_recent_categories: data, markup, programming, prose
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
           plugin_languages_colors: github
           # plugin_languages_ignored: ${{ vars.EXCLUDED_LANGS }}
           plugin_languages_skipped: ${{ vars.EXCLUDED_REPOS }}
           # plugin_languages_sections: most-used, recently-used
           plugin_languages_sections: recently-used
           plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: zeepkist/zeepkist, zeepkist/combine, zeepkist/gtr-client
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
@@ -36,9 +37,9 @@ jobs:
           plugin_languages_recent_load: 10000
           plugin_languages_recent_days: 14
           plugin_languages_other: no
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          plugin_followup_archived: no
+          # plugin_followup: yes
+          # plugin_followup_indepth: yes
+          # plugin_followup_archived: no
           plugin_achievements: yes
           plugin_achievements_limit: 5
           plugin_achievements_ignored: >-
