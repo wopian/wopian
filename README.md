@@ -43,7 +43,7 @@
 [wopian.moe]:https://www.wopian.moe
 [zeepkist-bot]:https://github.com/wopian/zeepkist-bot
 [zeepkist]:https://github.com/wopian/zeepkist-records
-[zeepkist-combine]:https://github.com/zeepkist/combine
+[combine]:https://github.com/zeepkist/combine
 [trutify]:https://github.com/trutify
  
 [typescript]:https://img.shields.io/badge/TypeScript-161b22?style=flat&logo=typescript&logoColor=3178c6
