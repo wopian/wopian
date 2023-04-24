@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="482" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="443" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 120kb of code in 84 edited files across 112 commits over last 3 days
+              estimation from 65.8kb of code in 47 edited files across 76 commits over last 3 days
             
           </small>
         
@@ -1720,13 +1720,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="421.80346673464186" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="455.3548150188194" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="421.80346673464186" y="0" width="33.03721641600816" height="8" fill="#3178c6"/>
-            
-              <rect mask="url(#languages-bar)" x="454.84068315065" y="0" width="3.224573030843742" height="8" fill="#3178c6"/>
-            
-              <rect mask="url(#languages-bar)" x="458.0652561814938" y="0" width="1.934743818506245" height="8" fill="#1d365d"/>
+              <rect mask="url(#languages-bar)" x="455.3548150188194" y="0" width="4.6451849811805745" height="8" fill="#3178c6"/>
             
           </svg>
         
@@ -1741,21 +1737,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>530 lines</div>
-                       <div>14.3 kB</div>
-                       <div>91.7%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TypeScript
-                    </div>
-                    <small>
-                       <div>38 lines</div>
-                       <div>1.13 kB</div>
-                       <div>7.18%</div>
+                       <div>395 lines</div>
+                       <div>10.7 kB</div>
+                       <div>98.99%</div>
                     </small>
                   </div>
                 
@@ -1767,19 +1751,7 @@
                     <small>
                        <div>2 lines</div>
                        <div>110 bytes</div>
-                       <div>0.7%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#1d365d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Less
-                    </div>
-                    <small>
-                       <div>2 lines</div>
-                       <div>66 bytes</div>
-                       <div>0.42%</div>
+                       <div>1.01%</div>
                     </small>
                   </div>
                 
@@ -1881,7 +1853,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="462.11699999999996 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="462.16866666666664 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g transform="translate(4 4)" fill="none" fill-rule="evenodd"><path d="M39 15h.96l4.038 3-.02-3H45a2 2 0 002-2V3a2 2 0 00-2-2H31a2 2 0 00-2 2v4.035" stroke="#731237" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M36 5.014l-3 3 3 3M40 5.014l3 3-3 3"/><path d="M6 37a1 1 0 110 2 1 1 0 010-2m7 0a1 1 0 110 2 1 1 0 010-2m-2.448 1a1 1 0 11-2 0 1 1 0 012 0z" fill="#EB355E"/><path d="M1.724 15.05A23.934 23.934 0 000 24c0 .686.029 1.366.085 2.037m19.92 21.632c1.3.218 2.634.331 3.995.331a23.92 23.92 0 009.036-1.76m13.207-13.21A23.932 23.932 0 0048 24c0-1.363-.114-2.7-.332-4M25.064.022a23.932 23.932 0 00-10.073 1.725" stroke="#731237" stroke-width="2" stroke-linecap="round"/><path d="M19 42.062V43a2 2 0 01-2 2H9.04l-4.038 3 .02-3H3a2 2 0 01-2-2V33a2 2 0 012-2h4.045" stroke="#731237" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 0a6 6 0 110 12A6 6 0 016 0z" stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#EB355E" stroke-width="2" stroke-linecap="round" d="M6 3v6M3 6h6"/><path d="M42 36a6 6 0 110 12 6 6 0 010-12z" stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M44.338 40.663l-3.336 3.331-1.692-1.686M31 31c-.716-2.865-3.578-5-7-5-3.423 0-6.287 2.14-7 5"/><path d="M24 16a5 5 0 110 10 5 5 0 010-10z" stroke="#EB355E" stroke-width="2" stroke-linecap="round"/><circle stroke="#EB355E" stroke-width="2" cx="24" cy="24" r="14"/></g></svg>
@@ -1892,12 +1864,12 @@
                   <span class="prefix">Master</span> maintainer
                   
                     <span class="gh">
-                      ranked 144 out of 395m repositories
+                      ranked 144 out of 396m repositories
                     </span>
                   
                   
                 </div>
-                <div class="text">Maintaining a repository with 54721 stars</div>
+                <div class="text">Maintaining a repository with 54726 stars</div>
               </div>
             </div>
           
@@ -1912,7 +1884,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="198.71 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="197.47 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd"><g stroke="#731237"><path d="M26.009 34.01c.444-.004.9.141 1.228.414.473.394.766.959.76 1.54-.01.735-.333 1.413-.97 2.037.66.718.985 1.4.976 2.048-.012.828-.574 1.58-1.687 2.258.624.788.822 1.549.596 2.28-.225.733-.789 1.219-1.69 1.459.703.833.976 1.585.82 2.256-.178.763-.313 1.716-2.492 1.711" stroke-linejoin="round"/><g stroke-linejoin="round"><path d="M18.548 28.422c1.184-4.303-2.132-5.292-2.132-5.292-.873 2.296-1.438 3.825-4.231 8.108-1.285 1.97-1.926 3.957-1.877 5.796M18.391 34.011L24.993 34c2.412-.009.211-.005-6.602.012zM5.004 37.017l5.234-.014-5.234.014z"/></g><g stroke-linejoin="round"><path d="M18.548 28.422c1.184-4.303-2.132-5.292-2.132-5.292-.873 2.296-1.438 3.825-4.231 8.108-1.285 1.97-1.926 3.957-1.877 5.796M5.004 37.017l5.234-.014-5.234.014zM7 48.012h4.01c1.352 1.333 2.672 2 3.961 2.001 0 0 .485-.005 5.46-.005h3.536"/></g><path d="M18.793 27.022c-.062.933-.373 2.082-.933 3.446-.561 1.364-.433 2.547.383 3.547"/></g><path d="M45 16.156V23a2 2 0 01-2 2H31l-6 4v-4h-1.934M12 23V8a2 2 0 012-2h29a2 2 0 012 2v10" stroke="#EB355E" stroke-linejoin="round"/><path stroke="#EB355E" stroke-linejoin="round" d="M23 12.014l-3 3 3 3M34 12.014l3 3-3 3"/><path stroke="#EB355E" d="M30.029 10l-3.015 10.027"/><path d="M32 39h3l6 4v-4h8a2 2 0 002-2V22a2 2 0 00-2-2h.138" stroke="#731237" stroke-linejoin="round"/><path stroke="#EB355E" stroke-linejoin="round" d="M33 29h12M33 34h6M43 34h2"/></g></svg>
@@ -1924,7 +1896,7 @@
                   
                   
                 </div>
-                <div class="text">Reviewed 2923 pull requests</div>
+                <div class="text">Reviewed 2911 pull requests</div>
               </div>
             </div>
           
@@ -1939,7 +1911,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.526666666666664 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.04333333333334 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g stroke-width="2" fill="none" fill-rule="evenodd"><path stroke="#731237" stroke-linecap="round" stroke-linejoin="round" d="M26.022 5.014h6M26.012 53.005h6M27.003 47.003h12M44.01 20.005h5M19.01 11.003h12"/><path stroke="#EB355E" stroke-linecap="round" stroke-linejoin="round" d="M38.005 11.008h6M41 14.013v-6M14.007 47.003h6M17.002 50.004v-6"/><path d="M29.015 5.01l-5.003 5.992 5.003-5.992zM33.015 47.01l-5.003 5.992 5.003-5.992z" stroke="#731237"/><path stroke="#EB355E" stroke-linecap="round" stroke-linejoin="round" d="M8.01 19.002h6"/><path stroke="#731237" stroke-linecap="round" stroke-linejoin="round" d="M47.011 29h6"/><path stroke="#EB355E" stroke-linecap="round" stroke-linejoin="round" d="M44.012 39.003h6"/><g stroke="#731237"><path d="M5.36 29c4.353 0 6.4 4.472 6.4 8"/><path stroke-linecap="round" stroke-linejoin="round" d="M13.99 37.995h-5M10.989 29h-6"/></g><path d="M24.503 22c1.109 0 2.007.895 2.007 2 0 1.104-.898 2-2.007 2a2.004 2.004 0 01-2.008-2c0-1.105.9-2 2.008-2zM24.5 32a2 2 0 110 4 2 2 0 010-4zm9.5 0a2 2 0 110 4 2 2 0 010-4z" stroke="#EB355E" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#EB355E" d="M24.5 26.004v6.001"/><path d="M31.076 23.988l1.027-.023a1.998 1.998 0 011.932 2.01L34 31" stroke="#EB355E" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#EB355E" stroke-linecap="round" stroke-linejoin="round" d="M31.588 26.222l-2.194-2.046 2.046-2.194"/><path d="M29.023 43c7.732 0 14-6.268 14-14s-6.268-14-14-14-14 6.268-14 14 6.268 14 14 14z" stroke="#EB355E"/></g></svg>
@@ -1951,7 +1923,7 @@
                   
                   
                 </div>
-                <div class="text">Opened 1518 pull requests</div>
+                <div class="text">Opened 1523 pull requests</div>
               </div>
             </div>
           
