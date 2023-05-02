@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 319kb of code in 165 edited files across 142 commits over last 5 days
+              estimation from 498kb of code in 163 edited files across 159 commits over last 6 days
             
           </small>
         
@@ -1720,13 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="274.53902699062905" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="353.1769291850141" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="274.53902699062905" y="0" width="118.19426519275014" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="353.1769291850141" y="0" width="60.833032556125026" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="392.73329218337915" y="0" width="47.288030974692774" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="414.00996174113914" y="0" width="25.701292138886885" height="8" fill="#1d365d"/>
             
-              <rect mask="url(#languages-bar)" x="440.02132315807194" y="0" width="19.978676841928063" height="8" fill="#1d365d"/>
+              <rect mask="url(#languages-bar)" x="439.711253880026" y="0" width="20.28874611997401" height="8" fill="#3178c6"/>
             
           </svg>
         
@@ -1743,19 +1743,7 @@
                     <small>
                        <div>424 lines</div>
                        <div>10.6 kB</div>
-                       <div>59.68%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TypeScript
-                    </div>
-                    <small>
-                       <div>168 lines</div>
-                       <div>4.58 kB</div>
-                       <div>25.69%</div>
+                       <div>76.78%</div>
                     </small>
                   </div>
                 
@@ -1767,7 +1755,7 @@
                     <small>
                        <div>66 lines</div>
                        <div>1.83 kB</div>
-                       <div>10.28%</div>
+                       <div>13.22%</div>
                     </small>
                   </div>
                 
@@ -1779,7 +1767,19 @@
                     <small>
                        <div>31 lines</div>
                        <div>774 bytes</div>
-                       <div>4.34%</div>
+                       <div>5.59%</div>
+                    </small>
+                  </div>
+                
+                  <div class="field language details">
+                    <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      TypeScript
+                    </div>
+                    <small>
+                       <div>23 lines</div>
+                       <div>611 bytes</div>
+                       <div>4.41%</div>
                     </small>
                   </div>
                 
@@ -1881,7 +1881,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="462.37533333333334 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="462.40633333333335 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g transform="translate(4 4)" fill="none" fill-rule="evenodd"><path d="M39 15h.96l4.038 3-.02-3H45a2 2 0 002-2V3a2 2 0 00-2-2H31a2 2 0 00-2 2v4.035" stroke="#731237" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M36 5.014l-3 3 3 3M40 5.014l3 3-3 3"/><path d="M6 37a1 1 0 110 2 1 1 0 010-2m7 0a1 1 0 110 2 1 1 0 010-2m-2.448 1a1 1 0 11-2 0 1 1 0 012 0z" fill="#EB355E"/><path d="M1.724 15.05A23.934 23.934 0 000 24c0 .686.029 1.366.085 2.037m19.92 21.632c1.3.218 2.634.331 3.995.331a23.92 23.92 0 009.036-1.76m13.207-13.21A23.932 23.932 0 0048 24c0-1.363-.114-2.7-.332-4M25.064.022a23.932 23.932 0 00-10.073 1.725" stroke="#731237" stroke-width="2" stroke-linecap="round"/><path d="M19 42.062V43a2 2 0 01-2 2H9.04l-4.038 3 .02-3H3a2 2 0 01-2-2V33a2 2 0 012-2h4.045" stroke="#731237" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 0a6 6 0 110 12A6 6 0 016 0z" stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#EB355E" stroke-width="2" stroke-linecap="round" d="M6 3v6M3 6h6"/><path d="M42 36a6 6 0 110 12 6 6 0 010-12z" stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M44.338 40.663l-3.336 3.331-1.692-1.686M31 31c-.716-2.865-3.578-5-7-5-3.423 0-6.287 2.14-7 5"/><path d="M24 16a5 5 0 110 10 5 5 0 010-10z" stroke="#EB355E" stroke-width="2" stroke-linecap="round"/><circle stroke="#EB355E" stroke-width="2" cx="24" cy="24" r="14"/></g></svg>
@@ -1892,12 +1892,12 @@
                   <span class="prefix">Master</span> maintainer
                   
                     <span class="gh">
-                      ranked 144 out of 397m repositories
+                      ranked 144 out of 398m repositories
                     </span>
                   
                   
                 </div>
-                <div class="text">Maintaining a repository with 54746 stars</div>
+                <div class="text">Maintaining a repository with 54749 stars</div>
               </div>
             </div>
           
@@ -2008,7 +2008,7 @@
                   <span class="prefix">Great</span> influencer
                   
                     <span class="gh">
-                      ranked 29.3k out of 114m users
+                      ranked 29.4k out of 114m users
                     </span>
                   
                   
