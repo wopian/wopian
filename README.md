@@ -7,7 +7,6 @@
 - [combine], a cli tool for official Super League events in Zeepkist ![typescript]
 - [preferred-locale], get your users' most preferred locale from your app's translations ![typescript]
 - [kitsu], a framework agnostic [JSON:API] client implementation ![javascript]
-- [trutify] ![typescript] ![javascript] ![react]
 - and many more open source projects!
 
 🏆 I've worked on:
@@ -16,6 +15,7 @@
 - [kitsu.io], a content discovery and tracking platform for anime and manga fans ![javascript] ![ember]
 - [kitsu-season-trends], daily statistical trends of seasonal anime on [Kitsu.io] ![javascript] ![react]
 - [smooth-corners], a 400b CSS paint module providing superellipse masks in CSS ![javascript]
+- [trutify] ![typescript] ![javascript] ![react] ![vue] ![angular]
 
 📷 I'm a hobbyist photographer over at [wopian.moe]
 
