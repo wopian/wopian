@@ -2,18 +2,19 @@
 
 🔭 I’m currently working on:
 
+- [apollo-11], digitising and proof reading the Assembly source code used to reach the moon in 1969
 - [zeepkist], records, level info and league standings for Zeepkist ![typescript] ![vue]
+- [streamkist], a configurable Discord bot to announce all streams of a Twitch category ![typescript]
 - [zeepkist-bot], a Discord bot for the Official Zeepkist discord ![typescript]
 - [combine], a cli tool for official Super League events in Zeepkist ![typescript]
-- [preferred-locale], get your users' most preferred locale from your app's translations ![typescript]
 - [kitsu], a framework agnostic [JSON:API] client implementation ![javascript]
 - and many more open source projects!
 
 🏆 I've worked on:
 
-- [apollo-11], digitising and proof reading the Assembly source code used to reach the moon in 1969
 - [kitsu.io], a content discovery and tracking platform for anime and manga fans ![javascript] ![ember]
 - [kitsu-season-trends], daily statistical trends of seasonal anime on [Kitsu.io] ![javascript] ![react]
+- [preferred-locale], get your users' most preferred locale from your app's translations ![typescript]
 - [smooth-corners], a 400b CSS paint module providing superellipse masks in CSS ![javascript]
 - [trutify] ![typescript] ![javascript] ![react] ![vue] ![angular]
 
@@ -45,6 +46,7 @@
 [zeepkist]:https://github.com/wopian/zeepkist-records
 [combine]:https://github.com/zeepkist/combine
 [trutify]:https://github.com/trutify
+[streamkist]:https://github.com/zeepkist/streamkist
  
 [typescript]:https://img.shields.io/badge/TypeScript-161b22?style=flat&logo=typescript&logoColor=3178c6
 [javascript]:https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript&logoColor=f1e05a
