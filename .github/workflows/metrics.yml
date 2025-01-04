@@ -41,5 +41,9 @@ jobs:
           # plugin_followup_indepth: yes
           # plugin_followup_archived: no
           plugin_achievements: no
+          plugin_notable: yes
+          # plugin_notable_from: all
+          plugin_notable_indepth: yes
+          # plugin_notable_types: commit, pull_request
           optimize: svg
           experimental_features: --optimize-svg
