@@ -40,9 +40,6 @@ jobs:
           # plugin_followup: yes
           # plugin_followup_indepth: yes
           # plugin_followup_archived: no
-          plugin_achievements: yes
-          plugin_achievements_limit: 5
-          plugin_achievements_ignored: >-
-            polyglot, stargazer, deployer, member, worker, forker, gister, follower, inspirer, chatter, helper, automater, infographile, octonaut
+          plugin_achievements: no
           optimize: svg
           experimental_features: --optimize-svg
