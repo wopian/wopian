@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 296kb of code in 293 edited files across 94 commits over last 13 days
+              estimation from 312kb of code in 294 edited files across 99 commits over last 12 days
             
           </small>
         
@@ -1720,15 +1720,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="394.2666752510945" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="394.2600241001536" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="394.2666752510945" y="0" width="59.59217835988375" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="394.2600241001536" y="0" width="59.598208125983085" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="453.8588536109783" y="0" width="3.5243368529487507" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="453.8582322261367" y="0" width="3.5246934589239554" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="457.383190463927" y="0" width="2.1958353261469408" height="8" fill="#6E4C13"/>
+              <rect mask="url(#languages-bar)" x="457.3829256850606" y="0" width="2.196057509221528" height="8" fill="#6E4C13"/>
             
-              <rect mask="url(#languages-bar)" x="459.57902579007396" y="0" width="0.4209742099260513" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="459.57898319428216" y="0" width="0.4210168057178075" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1757,7 +1757,7 @@
                     <small>
                        <div>368 lines</div>
                        <div>28.1 kB</div>
-                       <div>12.95%</div>
+                       <div>12.96%</div>
                     </small>
                   </div>
                 
