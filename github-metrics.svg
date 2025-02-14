@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="181" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="201" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 39.2kb of code in 37 edited files across 38 commits over last 5 days
+              estimation from 47.2kb of code in 47 edited files across 46 commits over last 6 days
             
           </small>
         
@@ -1720,13 +1720,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="352.5806196648751" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="276.9338217035014" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="352.5806196648751" y="0" width="48.08330698703762" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="276.9338217035014" y="0" width="64.33945865408492" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="400.6639266519127" y="0" width="45.73822320581726" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="341.2732803575863" y="0" width="48.390240874099824" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="446.40214985772997" y="0" width="13.597850142269998" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="389.6635212316861" y="0" width="37.76694810032282" height="8" fill="#3178c6"/>
+            
+              <rect mask="url(#languages-bar)" x="427.43046933200895" y="0" width="32.56953066799106" height="8" fill="#41b883"/>
             
           </svg>
         
@@ -1743,7 +1745,31 @@
                     <small>
                        <div>582 lines</div>
                        <div>19.3 kB</div>
-                       <div>76.65%</div>
+                       <div>60.2%</div>
+                    </small>
+                  </div>
+                
+                  <div class="field language details">
+                    <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      CSS
+                    </div>
+                    <small>
+                       <div>185 lines</div>
+                       <div>4.51 kB</div>
+                       <div>13.99%</div>
+                    </small>
+                  </div>
+                
+                  <div class="field language details">
+                    <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Dockerfile
+                    </div>
+                    <small>
+                       <div>98 lines</div>
+                       <div>3.39 kB</div>
+                       <div>10.52%</div>
                     </small>
                   </div>
                 
@@ -1755,19 +1781,7 @@
                     <small>
                        <div>95 lines</div>
                        <div>2.65 kB</div>
-                       <div>10.45%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Dockerfile
-                    </div>
-                    <small>
-                       <div>78 lines</div>
-                       <div>2.52 kB</div>
-                       <div>9.94%</div>
+                       <div>8.21%</div>
                     </small>
                   </div>
                 
@@ -1777,9 +1791,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>22 lines</div>
-                       <div>748 bytes</div>
-                       <div>2.96%</div>
+                       <div>85 lines</div>
+                       <div>2.28 kB</div>
+                       <div>7.08%</div>
                     </small>
                   </div>
                 
