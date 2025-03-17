@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 966kb of code in 436 edited files across 129 commits over last 12 days
+              estimation from 2.86mb of code in 1145 edited files across 221 commits over last 13 days
             
           </small>
         
@@ -1720,19 +1720,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="242.1028109954962" height="8" fill="#336790"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="225.36518831397393" height="8" fill="#336790"/>
             
-              <rect mask="url(#languages-bar)" x="242.1028109954962" y="0" width="176.36589532536107" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="225.36518831397393" y="0" width="164.17295217981595" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="418.4687063208573" y="0" width="31.45519490604131" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="389.5381404937899" y="0" width="46.45509629406145" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="449.9239012268986" y="0" width="5.724491380649169" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="435.99323678785134" y="0" width="15.118796198521649" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="455.64839260754775" y="0" width="3.783196148470259" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="451.11203298637304" y="0" width="8.049479559511239" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="459.431588756018" y="0" width="0.400683335921727" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="459.16151254588425" y="0" width="0.6823553074873033" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="459.8322720919397" y="0" width="0.1677279080602578" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="459.8438678533716" y="0" width="0.15613214662845074" height="8" fill="#701516"/>
             
           </svg>
         
@@ -1749,7 +1749,7 @@
                     <small>
                        <div>2.07k lines</div>
                        <div>77.9 kB</div>
-                       <div>52.63%</div>
+                       <div>48.99%</div>
                     </small>
                   </div>
                 
@@ -1761,7 +1761,7 @@
                     <small>
                        <div>2.90k lines</div>
                        <div>56.7 kB</div>
-                       <div>38.34%</div>
+                       <div>35.69%</div>
                     </small>
                   </div>
                 
@@ -1771,21 +1771,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>360 lines</div>
-                       <div>10.1 kB</div>
-                       <div>6.84%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Dockerfile
-                    </div>
-                    <small>
-                       <div>39 lines</div>
-                       <div>1.84 kB</div>
-                       <div>1.24%</div>
+                       <div>521 lines</div>
+                       <div>16 kB</div>
+                       <div>10.1%</div>
                     </small>
                   </div>
                 
@@ -1795,9 +1783,21 @@
                       Shell
                     </div>
                     <small>
-                       <div>16 lines</div>
-                       <div>1.22 kB</div>
-                       <div>0.82%</div>
+                       <div>112 lines</div>
+                       <div>5.23 kB</div>
+                       <div>3.29%</div>
+                    </small>
+                  </div>
+                
+                  <div class="field language details">
+                    <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Dockerfile
+                    </div>
+                    <small>
+                       <div>75 lines</div>
+                       <div>2.78 kB</div>
+                       <div>1.75%</div>
                     </small>
                   </div>
                 
@@ -1807,9 +1807,9 @@
                       C#
                     </div>
                     <small>
-                       <div>4 lines</div>
-                       <div>129 bytes</div>
-                       <div>0.09%</div>
+                       <div>6 lines</div>
+                       <div>236 bytes</div>
+                       <div>0.15%</div>
                     </small>
                   </div>
                 
@@ -1821,7 +1821,7 @@
                     <small>
                        <div>2 lines</div>
                        <div>54 bytes</div>
-                       <div>0.04%</div>
+                       <div>0.03%</div>
                     </small>
                   </div>
                 
