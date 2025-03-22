@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 2.07mb of code in 783 edited files across 184 commits over last 12 days
+              estimation from 2.08mb of code in 816 edited files across 245 commits over last 13 days
             
           </small>
         
@@ -1720,15 +1720,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="293.53816185585265" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="293.7853862212944" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="293.53816185585265" y="0" width="106.48751549495307" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="293.7853862212944" y="0" width="109.6509394572025" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="400.0256773508057" y="0" width="56.695590579068536" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="403.4363256784969" y="0" width="53.471398747390396" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="456.7212679298743" y="0" width="2.1790331149282807" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="456.9077244258873" y="0" width="2.055114822546973" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="458.9003010448025" y="0" width="1.09969895519745" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="458.9628392484343" y="0" width="1.037160751565762" height="8" fill="#701516"/>
             
           </svg>
         
@@ -1743,9 +1743,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>450 lines</div>
-                       <div>14.4 kB</div>
-                       <div>63.81%</div>
+                       <div>477 lines</div>
+                       <div>15.3 kB</div>
+                       <div>63.87%</div>
                     </small>
                   </div>
                 
@@ -1755,9 +1755,9 @@
                       Shell
                     </div>
                     <small>
-                       <div>112 lines</div>
-                       <div>5.23 kB</div>
-                       <div>23.15%</div>
+                       <div>132 lines</div>
+                       <div>5.71 kB</div>
+                       <div>23.84%</div>
                     </small>
                   </div>
                 
@@ -1769,7 +1769,7 @@
                     <small>
                        <div>75 lines</div>
                        <div>2.78 kB</div>
-                       <div>12.33%</div>
+                       <div>11.62%</div>
                     </small>
                   </div>
                 
@@ -1781,7 +1781,7 @@
                     <small>
                        <div>2 lines</div>
                        <div>107 bytes</div>
-                       <div>0.47%</div>
+                       <div>0.45%</div>
                     </small>
                   </div>
                 
@@ -1793,7 +1793,7 @@
                     <small>
                        <div>2 lines</div>
                        <div>54 bytes</div>
-                       <div>0.24%</div>
+                       <div>0.23%</div>
                     </small>
                   </div>
                 
