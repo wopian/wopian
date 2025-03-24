@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 2.08mb of code in 812 edited files across 243 commits over last 13 days
+              estimation from 1.91mb of code in 767 edited files across 195 commits over last 8 days
             
           </small>
         
@@ -1720,15 +1720,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="293.7853862212944" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="209.4313934863855" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="293.7853862212944" y="0" width="109.6509394572025" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="209.4313934863855" y="0" width="175.26294714361984" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="403.4363256784969" y="0" width="53.471398747390396" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="384.69434063000534" y="0" width="37.97517351841965" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="456.9077244258873" y="0" width="2.055114822546973" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="422.669514148425" y="0" width="34.04564869193807" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="458.9628392484343" y="0" width="1.037160751565762" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="456.71516284036306" y="0" width="3.2848371596369463" height="8" fill="#178600"/>
             
           </svg>
         
@@ -1743,9 +1743,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>477 lines</div>
-                       <div>15.3 kB</div>
-                       <div>63.87%</div>
+                       <div>188 lines</div>
+                       <div>6.82 kB</div>
+                       <div>45.53%</div>
                     </small>
                   </div>
                 
@@ -1757,7 +1757,19 @@
                     <small>
                        <div>132 lines</div>
                        <div>5.71 kB</div>
-                       <div>23.84%</div>
+                       <div>38.1%</div>
+                    </small>
+                  </div>
+                
+                  <div class="field language details">
+                    <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      TypeScript
+                    </div>
+                    <small>
+                       <div>42 lines</div>
+                       <div>1.24 kB</div>
+                       <div>8.26%</div>
                     </small>
                   </div>
                 
@@ -1767,9 +1779,9 @@
                       Dockerfile
                     </div>
                     <small>
-                       <div>75 lines</div>
-                       <div>2.78 kB</div>
-                       <div>11.62%</div>
+                       <div>42 lines</div>
+                       <div>1.11 kB</div>
+                       <div>7.4%</div>
                     </small>
                   </div>
                 
@@ -1781,19 +1793,7 @@
                     <small>
                        <div>2 lines</div>
                        <div>107 bytes</div>
-                       <div>0.45%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Ruby
-                    </div>
-                    <small>
-                       <div>2 lines</div>
-                       <div>54 bytes</div>
-                       <div>0.23%</div>
+                       <div>0.71%</div>
                     </small>
                   </div>
                 
