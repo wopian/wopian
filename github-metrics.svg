@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="221" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="201" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 189kb of code in 282 edited files across 119 commits over last 14 days
+              estimation from 168kb of code in 240 edited files across 91 commits over last 12 days
             
           </small>
         
@@ -1720,17 +1720,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="332.1735772021297" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="355.95707570875334" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="332.1735772021297" y="0" width="91.06347761317554" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="355.95707570875334" y="0" width="97.58358707541313" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="423.2370548153052" y="0" width="27.824951492914746" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="453.54066278416644" y="0" width="3.997989771484318" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="451.06200630821996" y="0" width="4.69107193761667" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="457.53865255565074" y="0" width="2.1757767463860227" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="455.75307824583666" y="0" width="3.9804316440913317" height="8" fill="#384d54"/>
-            
-              <rect mask="url(#languages-bar)" x="459.733509889928" y="0" width="0.26649011007200196" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="459.71442930203676" y="0" width="0.28557069796316553" height="8" fill="#663399"/>
             
           </svg>
         
@@ -1747,7 +1745,7 @@
                     <small>
                        <div>2.66k lines</div>
                        <div>78.5 kB</div>
-                       <div>72.21%</div>
+                       <div>77.38%</div>
                     </small>
                   </div>
                 
@@ -1759,7 +1757,7 @@
                     <small>
                        <div>691 lines</div>
                        <div>21.5 kB</div>
-                       <div>19.8%</div>
+                       <div>21.21%</div>
                     </small>
                   </div>
                 
@@ -1769,9 +1767,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>183 lines</div>
-                       <div>6.58 kB</div>
-                       <div>6.05%</div>
+                       <div>27 lines</div>
+                       <div>882 bytes</div>
+                       <div>0.87%</div>
                     </small>
                   </div>
                 
@@ -1781,21 +1779,9 @@
                       Shell
                     </div>
                     <small>
-                       <div>33 lines</div>
-                       <div>1.11 kB</div>
-                       <div>1.02%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Dockerfile
-                    </div>
-                    <small>
-                       <div>36 lines</div>
-                       <div>941 bytes</div>
-                       <div>0.87%</div>
+                       <div>20 lines</div>
+                       <div>480 bytes</div>
+                       <div>0.47%</div>
                     </small>
                   </div>
                 
