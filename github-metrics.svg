@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 170kb of code in 246 edited files across 94 commits over last 13 days
+              estimation from 253kb of code in 336 edited files across 115 commits over last 13 days
             
           </small>
         
@@ -1720,13 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="350.33682801695295" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="352.80728998798674" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="350.33682801695295" y="0" width="96.04282846308276" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="352.80728998798674" y="0" width="93.47632023596746" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="446.37965648003564" y="0" width="13.339281730983716" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="446.2836102239542" y="0" width="13.433346030257749" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="459.7189382110194" y="0" width="0.28106178898059336" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="459.71695625421194" y="0" width="0.28304374578803954" height="8" fill="#663399"/>
             
           </svg>
         
@@ -1743,7 +1743,7 @@
                     <small>
                        <div>2.66k lines</div>
                        <div>78.5 kB</div>
-                       <div>76.16%</div>
+                       <div>76.7%</div>
                     </small>
                   </div>
                 
@@ -1753,9 +1753,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>691 lines</div>
-                       <div>21.5 kB</div>
-                       <div>20.88%</div>
+                       <div>662 lines</div>
+                       <div>20.8 kB</div>
+                       <div>20.32%</div>
                     </small>
                   </div>
                 
@@ -1767,7 +1767,7 @@
                     <small>
                        <div>69 lines</div>
                        <div>2.99 kB</div>
-                       <div>2.9%</div>
+                       <div>2.92%</div>
                     </small>
                   </div>
                 
