@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 533kb of code in 197 edited files across 59 commits over last 8 days
+              estimation from 544kb of code in 212 edited files across 67 commits over last 9 days
             
           </small>
         
@@ -1720,15 +1720,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="300.25678083547814" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="299.6501927558538" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="300.25678083547814" y="0" width="148.95585032666798" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="299.6501927558538" y="0" width="145.20638627404622" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="449.2126311621461" y="0" width="8.369431795684024" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="444.85657902990005" y="0" width="12.786347385130538" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="457.58206295783015" y="0" width="1.3865571174024947" height="8" fill="#012456"/>
+              <rect mask="url(#languages-bar)" x="457.6429264150306" y="0" width="1.3516551913807495" height="8" fill="#012456"/>
             
-              <rect mask="url(#languages-bar)" x="458.96862007523265" y="0" width="1.0313799247673727" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="458.9945816064114" y="0" width="1.0054183935886363" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1743,9 +1743,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>4.22k lines</div>
-                       <div>131 kB</div>
-                       <div>65.27%</div>
+                       <div>4.33k lines</div>
+                       <div>135 kB</div>
+                       <div>65.14%</div>
                     </small>
                   </div>
                 
@@ -1757,7 +1757,7 @@
                     <small>
                        <div>1.72k lines</div>
                        <div>65.4 kB</div>
-                       <div>32.38%</div>
+                       <div>31.57%</div>
                     </small>
                   </div>
                 
@@ -1767,9 +1767,9 @@
                       Dockerfile
                     </div>
                     <small>
-                       <div>100 lines</div>
-                       <div>3.68 kB</div>
-                       <div>1.82%</div>
+                       <div>150 lines</div>
+                       <div>5.76 kB</div>
+                       <div>2.78%</div>
                     </small>
                   </div>
                 
@@ -1781,7 +1781,7 @@
                     <small>
                        <div>14 lines</div>
                        <div>609 bytes</div>
-                       <div>0.3%</div>
+                       <div>0.29%</div>
                     </small>
                   </div>
                 
