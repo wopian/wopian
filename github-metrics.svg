@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 264kb of code in 108 edited files across 77 commits over last 13 days
+              estimation from 117kb of code in 71 edited files across 65 commits over last 9 days
             
           </small>
         
@@ -1720,13 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="444.35682397382834" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="438.5522108436281" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="444.35682397382834" y="0" width="8.66755833499015" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="438.5522108436281" y="0" width="13.510163260131566" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="453.02438230881853" y="0" width="6.751134165958755" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="452.0623741037596" y="0" width="7.587722387344874" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="459.7755164747773" y="0" width="0.22448352522276646" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="459.6500964911045" y="0" width="0.34990350889549376" height="8" fill="#701516"/>
             
           </svg>
         
@@ -1741,9 +1741,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>6.06k lines</div>
-                       <div>106 kB</div>
-                       <div>96.6%</div>
+                       <div>4.90k lines</div>
+                       <div>67.6 kB</div>
+                       <div>95.34%</div>
                     </small>
                   </div>
                 
@@ -1755,7 +1755,7 @@
                     <small>
                        <div>50 lines</div>
                        <div>2.08 kB</div>
-                       <div>1.88%</div>
+                       <div>2.94%</div>
                     </small>
                   </div>
                 
@@ -1765,9 +1765,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>70 lines</div>
-                       <div>1.62 kB</div>
-                       <div>1.47%</div>
+                       <div>62 lines</div>
+                       <div>1.17 kB</div>
+                       <div>1.65%</div>
                     </small>
                   </div>
                 
@@ -1779,7 +1779,7 @@
                     <small>
                        <div>2 lines</div>
                        <div>54 bytes</div>
-                       <div>0.05%</div>
+                       <div>0.08%</div>
                     </small>
                   </div>
                 
