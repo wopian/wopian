@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="161" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="141" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 265kb of code in 114 edited files across 52 commits over last 14 days
+              estimation from 262kb of code in 108 edited files across 48 commits over last 13 days
             
           </small>
         
@@ -1720,11 +1720,9 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="331.53362832672514" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="346.1299090463796" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="331.53362832672514" y="0" width="109.06819499001868" height="8" fill="#f1e05a"/>
-            
-              <rect mask="url(#languages-bar)" x="440.60182331674383" y="0" width="19.398176683256214" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="346.1299090463796" y="0" width="113.87009095362038" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1741,7 +1739,7 @@
                     <small>
                        <div>2.83k lines</div>
                        <div>78.3 kB</div>
-                       <div>72.07%</div>
+                       <div>75.25%</div>
                     </small>
                   </div>
                 
@@ -1753,19 +1751,7 @@
                     <small>
                        <div>840 lines</div>
                        <div>25.7 kB</div>
-                       <div>23.71%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      HTML
-                    </div>
-                    <small>
-                       <div>63 lines</div>
-                       <div>4.58 kB</div>
-                       <div>4.22%</div>
+                       <div>24.75%</div>
                     </small>
                   </div>
                 
