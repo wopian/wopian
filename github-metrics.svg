@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 667kb of code in 663 edited files across 143 commits over last 14 days
+              estimation from 666kb of code in 661 edited files across 141 commits over last 13 days
             
           </small>
         
@@ -1720,19 +1720,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="189.88053245177514" height="8" fill="#00ADD8"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="189.95268033366523" height="8" fill="#00ADD8"/>
             
-              <rect mask="url(#languages-bar)" x="189.88053245177514" y="0" width="189.44050361356804" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="189.95268033366523" y="0" width="189.51248430007354" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="379.3210360653432" y="0" width="76.82385834109972" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="379.46516463373877" y="0" width="76.85304868824255" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="456.1448944064429" y="0" width="2.0043960681566406" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="456.3182133219813" y="0" width="2.005157667720951" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="458.1492904745995" y="0" width="1.420387205683237" height="8" fill="#c6538c"/>
+              <rect mask="url(#languages-bar)" x="458.3233709897023" y="0" width="1.4209269025496327" height="8" fill="#c6538c"/>
             
-              <rect mask="url(#languages-bar)" x="459.5696776802828" y="0" width="0.26207599922629204" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="459.74429789225195" y="0" width="0.16831024813799753" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="459.83175367950906" y="0" width="0.1682463204909529" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="459.9126081403899" y="0" width="0.0873918596101141" height="8" fill="#701516"/>
             
           </svg>
         
@@ -1749,7 +1749,7 @@
                     <small>
                        <div>3.54k lines</div>
                        <div>117 kB</div>
-                       <div>41.28%</div>
+                       <div>41.29%</div>
                     </small>
                   </div>
                 
@@ -1761,7 +1761,7 @@
                     <small>
                        <div>3.88k lines</div>
                        <div>117 kB</div>
-                       <div>41.18%</div>
+                       <div>41.2%</div>
                     </small>
                   </div>
                 
@@ -1773,7 +1773,7 @@
                     <small>
                        <div>1.66k lines</div>
                        <div>47.4 kB</div>
-                       <div>16.7%</div>
+                       <div>16.71%</div>
                     </small>
                   </div>
                 
@@ -1803,18 +1803,6 @@
                 
                   <div class="field language details">
                     <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Ruby
-                    </div>
-                    <small>
-                       <div>6 lines</div>
-                       <div>162 bytes</div>
-                       <div>0.06%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       Dockerfile
                     </div>
@@ -1822,6 +1810,18 @@
                        <div>3 lines</div>
                        <div>104 bytes</div>
                        <div>0.04%</div>
+                    </small>
+                  </div>
+                
+                  <div class="field language details">
+                    <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Ruby
+                    </div>
+                    <small>
+                       <div>2 lines</div>
+                       <div>54 bytes</div>
+                       <div>0.02%</div>
                     </small>
                   </div>
                 
