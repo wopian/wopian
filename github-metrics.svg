@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 491kb of code in 603 edited files across 112 commits over last 12 days
+              estimation from 556kb of code in 641 edited files across 118 commits over last 13 days
             
           </small>
         
@@ -1720,19 +1720,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="295.0767045369407" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="301.8310432861938" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="295.0767045369407" y="0" width="80.39174905524105" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="301.8310432861938" y="0" width="77.25693468345716" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="375.4684535921818" y="0" width="50.577763925642" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="379.0879779696509" y="0" width="48.41209374372508" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="426.04621751782383" y="0" width="16.93277751638531" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="427.50007171337603" y="0" width="16.20773930753564" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="442.9789950342091" y="0" width="7.955634539368202" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="443.70781102091166" y="0" width="7.614985227044549" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="450.93462957357735" y="0" width="6.133186287584324" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="451.3227962479562" y="0" width="5.870571699033303" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="457.0678158611617" y="0" width="2.9321841388383585" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="457.19336794698955" y="0" width="2.8066320530105275" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1747,9 +1747,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>7.12k lines</div>
-                       <div>214 kB</div>
-                       <div>64.15%</div>
+                       <div>7.53k lines</div>
+                       <div>228 kB</div>
+                       <div>65.62%</div>
                     </small>
                   </div>
                 
@@ -1759,9 +1759,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>1.86k lines</div>
-                       <div>58.3 kB</div>
-                       <div>17.48%</div>
+                       <div>1.88k lines</div>
+                       <div>58.5 kB</div>
+                       <div>16.79%</div>
                     </small>
                   </div>
                 
@@ -1773,7 +1773,7 @@
                     <small>
                        <div>1.15k lines</div>
                        <div>36.6 kB</div>
-                       <div>11%</div>
+                       <div>10.52%</div>
                     </small>
                   </div>
                 
@@ -1785,7 +1785,7 @@
                     <small>
                        <div>324 lines</div>
                        <div>12.2 kB</div>
-                       <div>3.68%</div>
+                       <div>3.52%</div>
                     </small>
                   </div>
                 
@@ -1797,7 +1797,7 @@
                     <small>
                        <div>125 lines</div>
                        <div>5.77 kB</div>
-                       <div>1.73%</div>
+                       <div>1.66%</div>
                     </small>
                   </div>
                 
@@ -1809,7 +1809,7 @@
                     <small>
                        <div>145 lines</div>
                        <div>4.45 kB</div>
-                       <div>1.33%</div>
+                       <div>1.28%</div>
                     </small>
                   </div>
                 
@@ -1821,7 +1821,7 @@
                     <small>
                        <div>63 lines</div>
                        <div>2.13 kB</div>
-                       <div>0.64%</div>
+                       <div>0.61%</div>
                     </small>
                   </div>
                 
