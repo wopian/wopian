@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 308kb of code in 271 edited files across 110 commits over last 14 days
+              estimation from 305kb of code in 261 edited files across 106 commits over last 11 days
             
           </small>
         
@@ -1720,17 +1720,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="253.60572762747563" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="258.06359966106766" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="253.60572762747563" y="0" width="90.59627410322138" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="258.06359966106766" y="0" width="85.11937397198824" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="344.20200173069696" y="0" width="46.1261776086992" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="343.1829736330559" y="0" width="46.936981840535644" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="390.3281793393962" y="0" width="32.043855209234735" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="390.1199554735915" y="0" width="32.60712090249049" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="422.3720345486309" y="0" width="21.671755351282513" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="422.727076376082" y="0" width="22.052700659588965" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="444.0437898999134" y="0" width="15.956210100086533" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="444.7797770356709" y="0" width="15.22022296432903" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1747,7 +1747,7 @@
                     <small>
                        <div>2.17k lines</div>
                        <div>67.5 kB</div>
-                       <div>55.13%</div>
+                       <div>56.1%</div>
                     </small>
                   </div>
                 
@@ -1757,9 +1757,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>868 lines</div>
-                       <div>24.1 kB</div>
-                       <div>19.69%</div>
+                       <div>803 lines</div>
+                       <div>22.2 kB</div>
+                       <div>18.5%</div>
                     </small>
                   </div>
                 
@@ -1771,7 +1771,7 @@
                     <small>
                        <div>324 lines</div>
                        <div>12.2 kB</div>
-                       <div>10.03%</div>
+                       <div>10.2%</div>
                     </small>
                   </div>
                 
@@ -1783,7 +1783,7 @@
                     <small>
                        <div>264 lines</div>
                        <div>8.53 kB</div>
-                       <div>6.97%</div>
+                       <div>7.09%</div>
                     </small>
                   </div>
                 
@@ -1795,7 +1795,7 @@
                     <small>
                        <div>125 lines</div>
                        <div>5.77 kB</div>
-                       <div>4.71%</div>
+                       <div>4.79%</div>
                     </small>
                   </div>
                 
@@ -1805,9 +1805,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>135 lines</div>
-                       <div>4.25 kB</div>
-                       <div>3.47%</div>
+                       <div>127 lines</div>
+                       <div>3.98 kB</div>
+                       <div>3.31%</div>
                     </small>
                   </div>
                 
