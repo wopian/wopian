@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 305kb of code in 261 edited files across 106 commits over last 14 days
+              estimation from 304kb of code in 255 edited files across 96 commits over last 13 days
             
           </small>
         
@@ -1720,17 +1720,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="258.06359966106766" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="258.77083524227606" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="258.06359966106766" y="0" width="85.11937397198824" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="258.77083524227606" y="0" width="85.35264766886854" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="343.1829736330559" y="0" width="46.936981840535644" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="344.1234829111446" y="0" width="47.06561487392648" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="390.1199554735915" y="0" width="32.60712090249049" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="391.1890977850711" y="0" width="32.69648226973985" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="422.727076376082" y="0" width="22.052700659588965" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="423.885580054811" y="0" width="22.1131371356696" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="444.7797770356709" y="0" width="15.22022296432903" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="445.9987171904806" y="0" width="14.001282809519447" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1747,7 +1747,7 @@
                     <small>
                        <div>2.17k lines</div>
                        <div>67.5 kB</div>
-                       <div>56.1%</div>
+                       <div>56.25%</div>
                     </small>
                   </div>
                 
@@ -1759,7 +1759,7 @@
                     <small>
                        <div>803 lines</div>
                        <div>22.2 kB</div>
-                       <div>18.5%</div>
+                       <div>18.55%</div>
                     </small>
                   </div>
                 
@@ -1771,7 +1771,7 @@
                     <small>
                        <div>324 lines</div>
                        <div>12.2 kB</div>
-                       <div>10.2%</div>
+                       <div>10.23%</div>
                     </small>
                   </div>
                 
@@ -1783,7 +1783,7 @@
                     <small>
                        <div>264 lines</div>
                        <div>8.53 kB</div>
-                       <div>7.09%</div>
+                       <div>7.11%</div>
                     </small>
                   </div>
                 
@@ -1795,7 +1795,7 @@
                     <small>
                        <div>125 lines</div>
                        <div>5.77 kB</div>
-                       <div>4.79%</div>
+                       <div>4.81%</div>
                     </small>
                   </div>
                 
@@ -1805,9 +1805,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>127 lines</div>
-                       <div>3.98 kB</div>
-                       <div>3.31%</div>
+                       <div>117 lines</div>
+                       <div>3.65 kB</div>
+                       <div>3.04%</div>
                     </small>
                   </div>
                 
