@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 304kb of code in 255 edited files across 96 commits over last 13 days
+              estimation from 307kb of code in 260 edited files across 98 commits over last 14 days
             
           </small>
         
@@ -1720,17 +1720,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="258.77083524227606" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="263.5303388494878" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="258.77083524227606" y="0" width="85.35264766886854" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="263.5303388494878" y="0" width="83.45868570917924" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="344.1234829111446" y="0" width="47.06561487392648" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="346.98902455866704" y="0" width="45.90171658827066" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="391.1890977850711" y="0" width="32.69648226973985" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="392.89074114693767" y="0" width="31.88792214017044" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="423.885580054811" y="0" width="22.1131371356696" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="424.77866328710815" y="0" width="21.566295402663027" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="445.9987171904806" y="0" width="14.001282809519447" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="446.34495868977115" y="0" width="13.655041310228851" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1745,9 +1745,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>2.17k lines</div>
-                       <div>67.5 kB</div>
-                       <div>56.25%</div>
+                       <div>2.25k lines</div>
+                       <div>70.5 kB</div>
+                       <div>57.29%</div>
                     </small>
                   </div>
                 
@@ -1757,9 +1757,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>803 lines</div>
-                       <div>22.2 kB</div>
-                       <div>18.55%</div>
+                       <div>804 lines</div>
+                       <div>22.3 kB</div>
+                       <div>18.14%</div>
                     </small>
                   </div>
                 
@@ -1771,7 +1771,7 @@
                     <small>
                        <div>324 lines</div>
                        <div>12.2 kB</div>
-                       <div>10.23%</div>
+                       <div>9.98%</div>
                     </small>
                   </div>
                 
@@ -1783,7 +1783,7 @@
                     <small>
                        <div>264 lines</div>
                        <div>8.53 kB</div>
-                       <div>7.11%</div>
+                       <div>6.93%</div>
                     </small>
                   </div>
                 
@@ -1795,7 +1795,7 @@
                     <small>
                        <div>125 lines</div>
                        <div>5.77 kB</div>
-                       <div>4.81%</div>
+                       <div>4.69%</div>
                     </small>
                   </div>
                 
@@ -1807,7 +1807,7 @@
                     <small>
                        <div>117 lines</div>
                        <div>3.65 kB</div>
-                       <div>3.04%</div>
+                       <div>2.97%</div>
                     </small>
                   </div>
                 
