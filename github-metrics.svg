@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 312kb of code in 195 edited files across 64 commits over last 13 days
+              estimation from 292kb of code in 149 edited files across 52 commits over last 12 days
             
           </small>
         
@@ -1720,13 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="335.02166109667036" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="340.23460035977735" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="335.02166109667036" y="0" width="63.906043207937" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="340.23460035977735" y="0" width="71.17374689984779" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="398.92770430460735" y="0" width="56.88956173174517" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="411.40834725962515" y="0" width="44.03802143761908" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="455.8172660363525" y="0" width="4.182733963647443" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="455.4463686972442" y="0" width="4.553631302755809" height="8" fill="#663399"/>
             
           </svg>
         
@@ -1741,9 +1741,9 @@
                       Vue
                     </div>
                     <small>
-                       <div>2.54k lines</div>
-                       <div>76.4 kB</div>
-                       <div>72.83%</div>
+                       <div>2.34k lines</div>
+                       <div>69.4 kB</div>
+                       <div>73.96%</div>
                     </small>
                   </div>
                 
@@ -1753,9 +1753,9 @@
                       JavaScript
                     </div>
                     <small>
-                       <div>607 lines</div>
+                       <div>605 lines</div>
                        <div>14.5 kB</div>
-                       <div>13.89%</div>
+                       <div>15.47%</div>
                     </small>
                   </div>
                 
@@ -1765,9 +1765,9 @@
                       TypeScript
                     </div>
                     <small>
-                       <div>500 lines</div>
-                       <div>12.9 kB</div>
-                       <div>12.37%</div>
+                       <div>359 lines</div>
+                       <div>8.99 kB</div>
+                       <div>9.57%</div>
                     </small>
                   </div>
                 
@@ -1777,9 +1777,9 @@
                       CSS
                     </div>
                     <small>
-                       <div>22 lines</div>
-                       <div>955 bytes</div>
-                       <div>0.91%</div>
+                       <div>21 lines</div>
+                       <div>930 bytes</div>
+                       <div>0.99%</div>
                     </small>
                   </div>
                 
