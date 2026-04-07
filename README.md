@@ -4,8 +4,6 @@
 
 - [apollo-11], digitising and proof reading the Assembly source code used to reach the moon in 1969
 - [zeepkist], records, level info and league standings for Zeepkist ![typescript] ![vue]
-- [streamkist], a configurable Discord bot to announce all streams of a Twitch category ![typescript]
-- [zeepkist-bot], a Discord bot for the Official Zeepkist discord ![typescript]
 - [combine], a cli tool for official Super League events in Zeepkist ![typescript]
 - [kitsu], a framework agnostic [JSON:API] client implementation ![javascript]
 - and many more open source projects!
@@ -17,6 +15,8 @@
 - [preferred-locale], get your users' most preferred locale from your app's translations ![typescript]
 - [smooth-corners], a 400b CSS paint module providing superellipse masks in CSS ![javascript]
 - [trutify] ![typescript] ![javascript] ![react] ![vue] ![angular]
+- [streamkist], a configurable Discord bot to announce all streams of a Twitch category ![typescript]
+- [zeepkist-bot], a Discord bot for the Official Zeepkist discord ![typescript]
 
 📷 I'm a hobbyist photographer over at [wopian.moe]
 
@@ -31,7 +31,7 @@
 ![](https://github.com/wopian/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/wopian/github-stats/blob/master/generated/languages.svg)
 
-![](https://github.com/wopian/wopian/blob/master/github-metrics.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wopian&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FB8C00&ring=FB8C00A8&currStreakNum=FB8C00&stroke=FB8C0000&sideNums=FB8C00&currStreakLabel=FB8C00A8&dates=FB8C00&sideLabels=FB8C00A8)](https://git.io/streak-stats)
 
 [apollo-11]:https://github.com/chrislgarry/Apollo-11
 [kitsu.io]:https://github.com/hummingbird-me
